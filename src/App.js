@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Navbar logo="News@Hand" aboutText="ABOUT"/>
-    {/* <Navbar Menu/> */}
+    {/* <Navbar Menu Section/> */}
     <div className="container my-5">
     <TextForm heading="Enter the text To analyze below"/>
     </div>
